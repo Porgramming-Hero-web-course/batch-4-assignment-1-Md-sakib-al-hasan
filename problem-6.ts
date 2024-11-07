@@ -20,7 +20,7 @@
     };
     
 
-    const updatedProfile = updateProfile(myProfile, { name:"10"  });
+    const updatedProfile = updateProfile(myProfile, { age:26  });
     console.log(updatedProfile);
     //
 }
